@@ -2,7 +2,7 @@
 
 ---
 
-6 years of on and off experience in Java, Lua, Python, LaTex, and Swift. 
+6 years of on and off experience in Java, Lua, Python, LaTeX, and Swift. 
 
 <br>
 
