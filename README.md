@@ -11,7 +11,6 @@ currently learning JavaScript/TypeScript, HTML and CSS.
 planning on learning Rust, C, and C++ later down the road.
 
 <br>
-<br>
 
 aspiring full stack dev.
 
