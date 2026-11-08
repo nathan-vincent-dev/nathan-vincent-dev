@@ -6,9 +6,11 @@
 
 <br>
 
-currently learning JavaScript/TypeScript, HTML and CSS. 
+currently learning JavaScript/TypeScript, HTML and CSS
 
-planning on learning Rust, C, and C++ later down the road.
+as well as c++ for competitive programming.
+
+planning on learning Rust and C later down the road.
 
 <br>
 
